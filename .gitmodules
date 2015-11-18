@@ -7,3 +7,6 @@
 [submodule "roles/ansible-redis"]
 	path = roles/ansible-redis
 	url = git@github.com:yavijava/ansible-redis.git
+[submodule "roles/ansible-apt-mirror"]
+	path = roles/ansible-apt-mirror
+	url = git@github.com:virtdevninja/ansible-apt-mirror.git
